@@ -10,6 +10,7 @@ The Ollama Python library provides the easiest way to integrate Python 3.8+ proj
 
 ## Install
 
+
 ```sh
 pip install ollama
 ```
